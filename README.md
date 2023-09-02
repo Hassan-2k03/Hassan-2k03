@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hassan-2k03
 - 👀 I’m interested in Coding. 
-- 🌱 I’m currently learning C and C++ (Data Structurs)
+- 🌱 I’m currently learning C and C++ (Data Structurs) and webtech :)
 - 📫 How to reach me discord hassan_2k03
 
 <!---
