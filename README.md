@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hassan-2k03
+- 👋 Hi, I’m Mohammed Hassan
 - 👀 I’m interested in Coding. 
 - 🌱 I’m currently learning Data Structures (C & C++) and WebTech :)
 - 📫 How to reach me discord hassan_2k03
