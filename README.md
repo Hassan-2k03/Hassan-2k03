@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohammed Hassan
 - 👀 I’m interested in Coding. 
-- 🌱 I’m currently learning Data Structures (C & C++) and WebTech :)
+- 🌱 I’m currently learning Ml and dbms (mysql):)
 - 📫 How to reach me discord, User Id: hassan_2k03 or click the link on the profile :)
 
 <!---
